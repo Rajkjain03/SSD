@@ -1,6 +1,6 @@
 DELIMITER $$
 
-CREATE PROCEDURE SubscriberWatchHistoryReport()
+CREATE PROCEDURE SubsWatchHisReport()
 BEGIN
     DECLARE done INT DEFAULT FALSE;
     DECLARE subId INT;
